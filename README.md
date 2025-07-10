@@ -1,6 +1,6 @@
-#Recipie Website
+# Recipie Website
 
-##About:
+## About:
     A simple html site with different pages for recipes
 
-##Demonstrated Skills:
+## Demonstrated Skills:
