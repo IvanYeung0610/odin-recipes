@@ -1,0 +1,32 @@
+html{
+    background-color: #93da97;
+}
+
+h1 {
+    text-align: center;
+    font-size: 96px;
+    font-family: "Lucida Handwriting", sans-serif;
+    background: #3e5f44;
+    margin: 16px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-width: 5px;
+    border-style: solid;
+}
+
+div {
+    background-color: #5e936c;
+    padding: 8px;
+    margin: 16px;
+}
+
+h2 {
+    background: #3e5f44;
+    text-align: center;
+    margin: -8px;
+}
+
+

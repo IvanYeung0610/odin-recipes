@@ -1,0 +1,22 @@
+html {
+    background-color: #93da97;
+}
+
+h1 {
+    margin: 16px auto;
+    text-align: center;
+    font-size: 96px;
+    background-color: #3e5f44;
+}
+
+ul {
+    font-size: 48px;
+    background-color: #5e936c;
+    padding: 16px;
+    padding-left: 60px;
+}
+
+li {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
